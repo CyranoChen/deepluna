@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LidcReadMessage uid="1.3.6.1.4.1.14519.5.2.1.6279.6001.1307390682145.0" xmlns="http://www.nih.gov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nih.gov LidcReadMessage.xsd">
+  <ResponseHeader>
+	<Version>1.8</Version>
+	<MessageId>NIH7</MessageId>
+	<DateRequest>2005-10-26</DateRequest>
+	<TimeRequest>00:00:00</TimeRequest>
+	<RequestingSite>removed</RequestingSite>
+	<ServicingSite>removed</ServicingSite>
+	<TaskDescription>Second unblinded read</TaskDescription>
+	<SeriesInstanceUid>1.3.6.1.4.1.14519.5.2.1.6279.6001.246178337114401749164850220976</SeriesInstanceUid>
+  <StudyInstanceUID>1.3.6.1.4.1.14519.5.2.1.6279.6001.811835952879031416814756528203</StudyInstanceUID></ResponseHeader>
+  <readingSession>
+    <annotationVersion></annotationVersion>
+    <servicingRadiologistID>anon</servicingRadiologistID>
+    <nonNodule>
+      <nonNoduleID>_Non-nodule 001</nonNoduleID>
+      <imageZposition>-200.000000 </imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.857103342691096440678885852471</imageSOP_UID>
+      <locus>
+        <xCoord>447</xCoord>
+        <yCoord>229</yCoord>
+      </locus>
+    </nonNodule>
+  </readingSession>
+<readingSession>
+<annotationVersion>3.12</annotationVersion>
+<servicingRadiologistID>anon</servicingRadiologistID>
+<unblindedReadNodule>
+<noduleID>4558</noduleID>
+<roi>
+<imageZposition>-170.0</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.209867914149269466336064626068</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>139</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+</roi>
+</unblindedReadNodule>
+</readingSession>
+  <readingSession>
+    <annotationVersion>3.12</annotationVersion>
+    <servicingRadiologistID>anon</servicingRadiologistID>
+    <unblindedReadNodule>
+      <noduleID>2560</noduleID>
+      <roi>
+        <imageZposition>-170.0</imageZposition>
+        <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.209867914149269466336064626068</imageSOP_UID>
+        <inclusion>TRUE</inclusion>
+        <edgeMap>
+          <xCoord>139</xCoord>
+          <yCoord>387</yCoord>
+        </edgeMap>
+      </roi>
+    </unblindedReadNodule>
+    <nonNodule>
+      <nonNoduleID>2561</nonNoduleID>
+      <imageZposition>-200.0</imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.857103342691096440678885852471</imageSOP_UID>
+      <locus>
+        <xCoord>447</xCoord>
+        <yCoord>229</yCoord>
+      </locus>
+    </nonNodule>
+  </readingSession>
+<readingSession>
+<annotationVersion>3.12</annotationVersion>
+<servicingRadiologistID>anon</servicingRadiologistID>
+<unblindedReadNodule>
+<noduleID>1428</noduleID>
+<roi>
+<imageZposition>-170.0</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.209867914149269466336064626068</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>139</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+</roi>
+</unblindedReadNodule>
+<nonNodule>
+<nonNoduleID>1429</nonNoduleID>
+<imageZposition>-200.0</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.857103342691096440678885852471</imageSOP_UID>
+<locus>
+<xCoord>447</xCoord>
+<yCoord>229</yCoord>
+</locus>
+</nonNodule>
+</readingSession>
+</LidcReadMessage>

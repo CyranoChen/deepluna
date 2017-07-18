@@ -1,0 +1,2282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LidcReadMessage uid="1.3.6.1.4.1.14519.5.2.1.6279.6001.1307390722925.0" xmlns="http://www.nih.gov" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nih.gov  http://troll.rad.med.umich.edu/lidc/LidcReadMessage.xsd">
+<ResponseHeader>
+	<Version>1.8</Version>
+	<MessageId>NIH70</MessageId>
+        <DateRequest>2006-02-16</DateRequest>
+        <TimeRequest>00:00:00</TimeRequest>
+	<RequestingSite>removed</RequestingSite>
+	<ServicingSite>removed</ServicingSite>
+	<TaskDescription>Second unblinded read</TaskDescription>
+	<CtImageFile>removed</CtImageFile>
+	<SeriesInstanceUid>1.3.6.1.4.1.14519.5.2.1.6279.6001.329326052298830421573852261436</SeriesInstanceUid>
+	<DateService>2006-10-12</DateService>
+	<TimeService>10:26:02</TimeService>
+<ResponseDescription>1 - Reading complete</ResponseDescription>
+<StudyInstanceUID>1.3.6.1.4.1.14519.5.2.1.6279.6001.156996082231474939899578263697</StudyInstanceUID></ResponseHeader>
+  <readingSession>
+    <annotationVersion>3.12</annotationVersion>
+<servicingRadiologistID>anon</servicingRadiologistID>
+    <unblindedReadNodule>
+      <noduleID>Nodule 001</noduleID>
+      <characteristics>
+        <subtlety>4</subtlety>
+        <internalStructure>1</internalStructure>
+        <calcification>6</calcification>
+        <sphericity>3</sphericity>
+        <margin>4</margin>
+        <lobulation>2</lobulation>
+        <spiculation>1</spiculation>
+        <texture>4</texture>
+        <malignancy>4</malignancy>
+      </characteristics>
+      <roi>
+        <imageZposition>-119.010002 </imageZposition>
+        <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.716592393745129828395575404224</imageSOP_UID>
+        <inclusion>TRUE</inclusion>
+        <edgeMap>
+          <xCoord>157</xCoord>
+          <yCoord>157</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>158</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>159</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>160</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>161</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>155</xCoord>
+          <yCoord>161</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>154</xCoord>
+          <yCoord>162</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>154</xCoord>
+          <yCoord>163</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>154</xCoord>
+          <yCoord>164</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>154</xCoord>
+          <yCoord>165</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>155</xCoord>
+          <yCoord>166</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>167</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>157</xCoord>
+          <yCoord>168</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>158</xCoord>
+          <yCoord>167</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>159</xCoord>
+          <yCoord>167</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>160</xCoord>
+          <yCoord>166</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>160</xCoord>
+          <yCoord>165</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>160</xCoord>
+          <yCoord>164</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>160</xCoord>
+          <yCoord>163</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>161</xCoord>
+          <yCoord>163</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>162</xCoord>
+          <yCoord>162</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>163</xCoord>
+          <yCoord>161</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>163</xCoord>
+          <yCoord>160</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>163</xCoord>
+          <yCoord>159</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>162</xCoord>
+          <yCoord>158</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>161</xCoord>
+          <yCoord>158</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>160</xCoord>
+          <yCoord>157</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>159</xCoord>
+          <yCoord>157</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>158</xCoord>
+          <yCoord>157</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>157</xCoord>
+          <yCoord>157</yCoord>
+        </edgeMap>
+      </roi>
+      <roi>
+        <imageZposition>-116.510002 </imageZposition>
+        <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.262854157342822873777149148512</imageSOP_UID>
+        <inclusion>TRUE</inclusion>
+        <edgeMap>
+          <xCoord>157</xCoord>
+          <yCoord>157</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>158</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>159</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>160</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>161</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>162</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>163</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>164</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>165</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>166</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>155</xCoord>
+          <yCoord>167</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>155</xCoord>
+          <yCoord>168</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>156</xCoord>
+          <yCoord>169</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>157</xCoord>
+          <yCoord>169</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>158</xCoord>
+          <yCoord>169</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>159</xCoord>
+          <yCoord>168</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>159</xCoord>
+          <yCoord>167</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>160</xCoord>
+          <yCoord>166</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>161</xCoord>
+          <yCoord>165</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>161</xCoord>
+          <yCoord>164</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>161</xCoord>
+          <yCoord>163</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>161</xCoord>
+          <yCoord>162</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>161</xCoord>
+          <yCoord>161</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>161</xCoord>
+          <yCoord>160</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>161</xCoord>
+          <yCoord>159</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>160</xCoord>
+          <yCoord>158</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>159</xCoord>
+          <yCoord>157</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>158</xCoord>
+          <yCoord>157</yCoord>
+        </edgeMap>
+        <edgeMap>
+          <xCoord>157</xCoord>
+          <yCoord>157</yCoord>
+        </edgeMap>
+      </roi>
+    </unblindedReadNodule>
+    <unblindedReadNodule>
+      <noduleID>Nodule 002</noduleID>
+      <roi>
+        <imageZposition>-164.009995 </imageZposition>
+        <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.789799649010984498919757472133</imageSOP_UID>
+        <inclusion>TRUE</inclusion>
+        <edgeMap>
+          <xCoord>367</xCoord>
+          <yCoord>287</yCoord>
+        </edgeMap>
+      </roi>
+    </unblindedReadNodule>
+    <unblindedReadNodule>
+      <noduleID>Nodule 003</noduleID>
+      <roi>
+        <imageZposition>-146.509995 </imageZposition>
+        <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.101849190143114510697857940999</imageSOP_UID>
+        <inclusion>TRUE</inclusion>
+        <edgeMap>
+          <xCoord>103</xCoord>
+          <yCoord>194</yCoord>
+        </edgeMap>
+      </roi>
+    </unblindedReadNodule>
+    <unblindedReadNodule>
+      <noduleID>Nodule 004</noduleID>
+      <roi>
+        <imageZposition>-119.010002 </imageZposition>
+        <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.716592393745129828395575404224</imageSOP_UID>
+        <inclusion>TRUE</inclusion>
+        <edgeMap>
+          <xCoord>394</xCoord>
+          <yCoord>316</yCoord>
+        </edgeMap>
+      </roi>
+    </unblindedReadNodule>
+    <nonNodule>
+      <nonNoduleID>_Non-nodule 001</nonNoduleID>
+      <imageZposition>-51.509998</imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.143618952118879339572415971157</imageSOP_UID>
+      <locus>
+        <xCoord>204</xCoord>
+        <yCoord>300</yCoord>
+      </locus>
+    </nonNodule>
+    <nonNodule>
+      <nonNoduleID>_Non-nodule 002</nonNoduleID>
+      <imageZposition>-51.509998</imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.143618952118879339572415971157</imageSOP_UID>
+      <locus>
+        <xCoord>314</xCoord>
+        <yCoord>292</yCoord>
+      </locus>
+    </nonNodule>
+    <nonNodule>
+      <nonNoduleID>_Non-nodule 003</nonNoduleID>
+      <imageZposition>-184.009995 </imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.219517076966113501341836037429</imageSOP_UID>
+      <locus>
+        <xCoord>100</xCoord>
+        <yCoord>157</yCoord>
+      </locus>
+    </nonNodule>
+    <nonNodule>
+      <nonNoduleID>_Non-nodule 004</nonNoduleID>
+      <imageZposition>-269.010010 </imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.735702521817663003984479650878</imageSOP_UID>
+      <locus>
+        <xCoord>103</xCoord>
+        <yCoord>365</yCoord>
+      </locus>
+    </nonNodule>
+    <nonNodule>
+      <nonNoduleID>_Non-nodule 005</nonNoduleID>
+      <imageZposition>-241.509995 </imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.641167141105382402981419463202</imageSOP_UID>
+      <locus>
+        <xCoord>396</xCoord>
+        <yCoord>156</yCoord>
+      </locus>
+    </nonNodule>
+    <nonNodule>
+      <nonNoduleID>_Non-nodule 006</nonNoduleID>
+      <imageZposition>-261.510010 </imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.345995795257563337891025355921</imageSOP_UID>
+      <locus>
+        <xCoord>393</xCoord>
+        <yCoord>218</yCoord>
+      </locus>
+    </nonNodule>
+    <nonNodule>
+      <nonNoduleID>_Non-nodule 007</nonNoduleID>
+      <imageZposition>-266.510010 </imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.864532546691928795475885628286</imageSOP_UID>
+      <locus>
+        <xCoord>179</xCoord>
+        <yCoord>324</yCoord>
+      </locus>
+    </nonNodule>
+  </readingSession>
+<readingSession>
+<annotationVersion>3.12</annotationVersion>
+<servicingRadiologistID>anon</servicingRadiologistID>
+<unblindedReadNodule>
+<noduleID>850</noduleID>
+<roi>
+<imageZposition>-251.509995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.215400533212751404571765494345</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>54</xCoord>
+<yCoord>294</yCoord>
+</edgeMap>
+</roi>
+</unblindedReadNodule>
+<unblindedReadNodule>
+<noduleID>851</noduleID>
+<roi>
+<imageZposition>-146.509995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.101849190143114510697857940999</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>104</xCoord>
+<yCoord>194</yCoord>
+</edgeMap>
+</roi>
+</unblindedReadNodule>
+<unblindedReadNodule>
+<noduleID>852</noduleID>
+<roi>
+<imageZposition>-119.010002</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.716592393745129828395575404224</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>395</xCoord>
+<yCoord>316</yCoord>
+</edgeMap>
+</roi>
+</unblindedReadNodule>
+<nonNodule>
+<nonNoduleID>839</nonNoduleID>
+<imageZposition>-116.510002</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.262854157342822873777149148512</imageSOP_UID>
+<locus>
+<xCoord>159</xCoord>
+<yCoord>162</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>841</nonNoduleID>
+<imageZposition>-51.509998</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.143618952118879339572415971157</imageSOP_UID>
+<locus>
+<xCoord>204</xCoord>
+<yCoord>300</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>843</nonNoduleID>
+<imageZposition>-51.509998</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.143618952118879339572415971157</imageSOP_UID>
+<locus>
+<xCoord>314</xCoord>
+<yCoord>292</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>845</nonNoduleID>
+<imageZposition>-184.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.219517076966113501341836037429</imageSOP_UID>
+<locus>
+<xCoord>100</xCoord>
+<yCoord>157</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>847</nonNoduleID>
+<imageZposition>-51.509998</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.143618952118879339572415971157</imageSOP_UID>
+<locus>
+<xCoord>197</xCoord>
+<yCoord>296</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>848</nonNoduleID>
+<imageZposition>-269.01001</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.735702521817663003984479650878</imageSOP_UID>
+<locus>
+<xCoord>104</xCoord>
+<yCoord>365</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>849</nonNoduleID>
+<imageZposition>-164.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.789799649010984498919757472133</imageSOP_UID>
+<locus>
+<xCoord>367</xCoord>
+<yCoord>287</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>853</nonNoduleID>
+<imageZposition>-241.509995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.641167141105382402981419463202</imageSOP_UID>
+<locus>
+<xCoord>397</xCoord>
+<yCoord>156</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>854</nonNoduleID>
+<imageZposition>-261.51001</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.345995795257563337891025355921</imageSOP_UID>
+<locus>
+<xCoord>393</xCoord>
+<yCoord>218</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>855</nonNoduleID>
+<imageZposition>-266.51001</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.864532546691928795475885628286</imageSOP_UID>
+<locus>
+<xCoord>180</xCoord>
+<yCoord>324</yCoord>
+</locus>
+</nonNodule>
+</readingSession>
+  <readingSession>
+    <annotationVersion>3.12</annotationVersion>
+<servicingRadiologistID>anon</servicingRadiologistID>
+    <nonNodule>
+      <nonNoduleID>34020</nonNoduleID>
+      <imageZposition>-51.509998</imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.143618952118879339572415971157</imageSOP_UID>
+      <locus>
+        <xCoord>200</xCoord>
+        <yCoord>300</yCoord>
+      </locus>
+    </nonNodule>
+    <nonNodule>
+      <nonNoduleID>34023</nonNoduleID>
+      <imageZposition>-51.509998</imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.143618952118879339572415971157</imageSOP_UID>
+      <locus>
+        <xCoord>315</xCoord>
+        <yCoord>289</yCoord>
+      </locus>
+    </nonNodule>
+    <nonNodule>
+      <nonNoduleID>34027</nonNoduleID>
+      <imageZposition>-116.510002</imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.262854157342822873777149148512</imageSOP_UID>
+      <locus>
+        <xCoord>159</xCoord>
+        <yCoord>162</yCoord>
+      </locus>
+    </nonNodule>
+    <nonNodule>
+      <nonNoduleID>34028</nonNoduleID>
+      <imageZposition>-184.009995</imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.219517076966113501341836037429</imageSOP_UID>
+      <locus>
+        <xCoord>100</xCoord>
+        <yCoord>157</yCoord>
+      </locus>
+    </nonNodule>
+    <nonNodule>
+      <nonNoduleID>34036</nonNoduleID>
+      <imageZposition>-241.509995</imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.641167141105382402981419463202</imageSOP_UID>
+      <locus>
+        <xCoord>397</xCoord>
+        <yCoord>156</yCoord>
+      </locus>
+    </nonNodule>
+    <nonNodule>
+      <nonNoduleID>34037</nonNoduleID>
+      <imageZposition>-261.51001</imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.345995795257563337891025355921</imageSOP_UID>
+      <locus>
+        <xCoord>393</xCoord>
+        <yCoord>218</yCoord>
+      </locus>
+    </nonNodule>
+    <nonNodule>
+      <nonNoduleID>34038</nonNoduleID>
+      <imageZposition>-266.51001</imageZposition>
+      <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.864532546691928795475885628286</imageSOP_UID>
+      <locus>
+        <xCoord>180</xCoord>
+        <yCoord>324</yCoord>
+      </locus>
+    </nonNodule>
+  </readingSession>
+<readingSession>
+<annotationVersion>3.12</annotationVersion>
+<servicingRadiologistID>anon</servicingRadiologistID>
+<unblindedReadNodule>
+<noduleID>7266</noduleID>
+<characteristics>
+<subtlety>2</subtlety>
+<internalStructure>1</internalStructure>
+<calcification>6</calcification>
+<sphericity>4</sphericity>
+<margin>1</margin>
+<lobulation>1</lobulation>
+<spiculation>1</spiculation>
+<texture>1</texture>
+<malignancy>3</malignancy>
+</characteristics>
+<roi>
+<imageZposition>-146.509995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.101849190143114510697857940999</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-149.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.256412910598842763453454364187</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>181</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>182</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>183</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>184</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>183</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>182</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>181</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>181</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>181</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-149.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.256412910598842763453454364187</imageSOP_UID>
+<inclusion>FALSE</inclusion>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-149.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.256412910598842763453454364187</imageSOP_UID>
+<inclusion>FALSE</inclusion>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-149.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.256412910598842763453454364187</imageSOP_UID>
+<inclusion>FALSE</inclusion>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-151.509995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.182315967312966994343937459349</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>392</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>391</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>181</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>182</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>183</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>184</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>185</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>186</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>186</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>185</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>186</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>185</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>186</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>186</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>186</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>185</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>185</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>184</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>183</xCoord>
+<yCoord>373</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>182</xCoord>
+<yCoord>373</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>181</xCoord>
+<yCoord>373</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>373</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>373</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>167</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>167</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>166</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>165</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>165</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>165</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>166</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>167</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>167</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>391</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>391</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>391</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>392</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>391</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>392</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-151.509995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.182315967312966994343937459349</imageSOP_UID>
+<inclusion>FALSE</inclusion>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-151.509995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.182315967312966994343937459349</imageSOP_UID>
+<inclusion>FALSE</inclusion>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-151.509995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.182315967312966994343937459349</imageSOP_UID>
+<inclusion>FALSE</inclusion>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-154.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.144581520252479990242220377586</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>393</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>181</xCoord>
+<yCoord>392</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>182</xCoord>
+<yCoord>391</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>183</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>184</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>185</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>184</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>185</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>185</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>184</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>185</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>186</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>187</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>188</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>189</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>190</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>189</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>190</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>191</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>191</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>190</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>190</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>189</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>188</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>187</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>186</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>185</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>184</xCoord>
+<yCoord>373</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>183</xCoord>
+<yCoord>372</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>182</xCoord>
+<yCoord>372</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>181</xCoord>
+<yCoord>372</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>372</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>371</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>372</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>373</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>373</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>373</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>373</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>373</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>373</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>167</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>166</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>165</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>164</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>165</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>166</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>167</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>166</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>167</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>166</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>165</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>164</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>163</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>164</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>164</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>165</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>164</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>165</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>166</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>167</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>167</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>391</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>391</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>392</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>393</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>392</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>392</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>393</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>393</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>393</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>393</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>393</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>393</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-154.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.144581520252479990242220377586</imageSOP_UID>
+<inclusion>FALSE</inclusion>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-154.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.144581520252479990242220377586</imageSOP_UID>
+<inclusion>FALSE</inclusion>
+<edgeMap>
+<xCoord>167</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>167</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-154.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.144581520252479990242220377586</imageSOP_UID>
+<inclusion>FALSE</inclusion>
+<edgeMap>
+<xCoord>184</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>185</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>186</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>187</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>186</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>185</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>184</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-154.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.144581520252479990242220377586</imageSOP_UID>
+<inclusion>FALSE</inclusion>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>374</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>376</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>375</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-156.509995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.214702811757538769093216258139</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>377</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>378</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>379</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>167</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>166</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>166</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>166</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>166</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>166</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>166</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>167</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>168</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>169</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-159.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.169635488398632902758141866269</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>181</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>182</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>182</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>183</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>184</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>184</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>183</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>182</xCoord>
+<yCoord>380</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>181</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>181</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>381</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>177</xCoord>
+<yCoord>382</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>386</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>387</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>170</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>171</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>172</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>173</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-159.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.169635488398632902758141866269</imageSOP_UID>
+<inclusion>FALSE</inclusion>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>388</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>176</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>175</xCoord>
+<yCoord>390</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>174</xCoord>
+<yCoord>389</yCoord>
+</edgeMap>
+</roi>
+<roi>
+<imageZposition>-159.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.169635488398632902758141866269</imageSOP_UID>
+<inclusion>FALSE</inclusion>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>383</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>180</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>179</xCoord>
+<yCoord>385</yCoord>
+</edgeMap>
+<edgeMap>
+<xCoord>178</xCoord>
+<yCoord>384</yCoord>
+</edgeMap>
+</roi>
+</unblindedReadNodule>
+<unblindedReadNodule>
+<noduleID>7280</noduleID>
+<roi>
+<imageZposition>-146.509995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.101849190143114510697857940999</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>104</xCoord>
+<yCoord>194</yCoord>
+</edgeMap>
+</roi>
+</unblindedReadNodule>
+<unblindedReadNodule>
+<noduleID>7281</noduleID>
+<roi>
+<imageZposition>-119.010002</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.716592393745129828395575404224</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>395</xCoord>
+<yCoord>316</yCoord>
+</edgeMap>
+</roi>
+</unblindedReadNodule>
+<unblindedReadNodule>
+<noduleID>1418</noduleID>
+<roi>
+<imageZposition>-249.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.308954147507855195573774589883</imageSOP_UID>
+<inclusion>TRUE</inclusion>
+<edgeMap>
+<xCoord>52</xCoord>
+<yCoord>296</yCoord>
+</edgeMap>
+</roi>
+</unblindedReadNodule>
+<nonNodule>
+<nonNoduleID>7276</nonNoduleID>
+<imageZposition>-51.509998</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.143618952118879339572415971157</imageSOP_UID>
+<locus>
+<xCoord>197</xCoord>
+<yCoord>296</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>7273</nonNoduleID>
+<imageZposition>-51.509998</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.143618952118879339572415971157</imageSOP_UID>
+<locus>
+<xCoord>316</xCoord>
+<yCoord>292</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>7268</nonNoduleID>
+<imageZposition>-116.510002</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.262854157342822873777149148512</imageSOP_UID>
+<locus>
+<xCoord>159</xCoord>
+<yCoord>162</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>7275</nonNoduleID>
+<imageZposition>-184.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.219517076966113501341836037429</imageSOP_UID>
+<locus>
+<xCoord>102</xCoord>
+<yCoord>158</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>7277</nonNoduleID>
+<imageZposition>-269.01001</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.735702521817663003984479650878</imageSOP_UID>
+<locus>
+<xCoord>104</xCoord>
+<yCoord>365</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>7278</nonNoduleID>
+<imageZposition>-164.009995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.789799649010984498919757472133</imageSOP_UID>
+<locus>
+<xCoord>367</xCoord>
+<yCoord>287</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>7282</nonNoduleID>
+<imageZposition>-241.509995</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.641167141105382402981419463202</imageSOP_UID>
+<locus>
+<xCoord>397</xCoord>
+<yCoord>156</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>7283</nonNoduleID>
+<imageZposition>-261.51001</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.345995795257563337891025355921</imageSOP_UID>
+<locus>
+<xCoord>393</xCoord>
+<yCoord>218</yCoord>
+</locus>
+</nonNodule>
+<nonNodule>
+<nonNoduleID>7284</nonNoduleID>
+<imageZposition>-266.51001</imageZposition>
+<imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.864532546691928795475885628286</imageSOP_UID>
+<locus>
+<xCoord>180</xCoord>
+<yCoord>324</yCoord>
+</locus>
+</nonNodule>
+</readingSession>
+</LidcReadMessage>

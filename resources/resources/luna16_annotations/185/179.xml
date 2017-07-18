@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IdriReadMessage uid="1.3.6.1.4.1.14519.5.2.1.6279.6001.1307738924402.0" xmlns="http://www.nih.gov/idri" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nih.gov/idri  http://troll.rad.med.umich.edu/idri/IdriReadMessage.xsd">
+  <ResponseHeader>
+    <Version>1.4</Version>
+    <MessageId>-696617693</MessageId>
+    <DateRequest>2008-10-10</DateRequest>
+    <TimeRequest>06:45:32</TimeRequest>
+    <RequestingSite>removed</RequestingSite>
+    <ServicingSite>removed</ServicingSite>
+    <TaskDescription>CXR read</TaskDescription>
+    <CTImageFile>removed</CTImageFile>
+    <CTSeriesInstanceUid>1.3.6.1.4.1.14519.5.2.1.6279.6001.252634638822000832774167856951</CTSeriesInstanceUid>
+    <CXRImageFile>removed</CXRImageFile>
+    <CXRSeriesInstanceUid>1.3.6.1.4.1.14519.5.2.1.6279.6001.299480094258213201778610004898</CXRSeriesInstanceUid>
+    <Modality>CXR</Modality>
+    <DateService>2010-10-10</DateService>
+    <TimeService>12:00:00</TimeService>
+    <ResponseDescription>1 - Reading complete</ResponseDescription>
+    <ResponseComments></ResponseComments>
+  <StudyInstanceUID>1.3.6.1.4.1.14519.5.2.1.6279.6001.794497988512464335687324456292</StudyInstanceUID><SeriesInstanceUID>1.3.6.1.4.1.14519.5.2.1.6279.6001.299480094258213201778610004898</SeriesInstanceUID></ResponseHeader>
+  <CXRreadingSession>
+    <servicingRadiologistID>anonymous</servicingRadiologistID>
+    <unblindedRead>
+      <noduleID>Nodule 001</noduleID>
+      <characteristics>
+        <confidence>3</confidence>
+        <subtlety>4</subtlety>
+        <obscuration>2</obscuration>
+        <reason>3</reason>
+      </characteristics>
+      <roi>
+        <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.377205087592595563122757128357</imageSOP_UID>
+        <edgeMap>
+          <xCoord>1789</xCoord>
+          <yCoord>984</yCoord>
+        </edgeMap>
+      </roi>
+    </unblindedRead>
+  </CXRreadingSession>
+  <CXRreadingSession>
+    <servicingRadiologistID>anonymous</servicingRadiologistID>
+    <unblindedRead>
+      <noduleID>Nodule 001</noduleID>
+      <characteristics>
+        <confidence>2</confidence>
+        <subtlety>2</subtlety>
+        <obscuration>2</obscuration>
+        <reason>3</reason>
+      </characteristics>
+      <roi>
+        <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.377205087592595563122757128357</imageSOP_UID>
+        <edgeMap>
+          <xCoord>1771</xCoord>
+          <yCoord>972</yCoord>
+        </edgeMap>
+      </roi>
+    </unblindedRead>
+  </CXRreadingSession>
+  <CXRreadingSession>
+    <servicingRadiologistID>anonymous</servicingRadiologistID>
+    <unblindedRead>
+      <noduleID>Nodule 001</noduleID>
+      <characteristics>
+        <confidence>3</confidence>
+        <subtlety>5</subtlety>
+        <obscuration>1</obscuration>
+      </characteristics>
+      <roi>
+        <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.377205087592595563122757128357</imageSOP_UID>
+        <edgeMap>
+          <xCoord>1762</xCoord>
+          <yCoord>1005</yCoord>
+        </edgeMap>
+      </roi>
+    </unblindedRead>
+  </CXRreadingSession>
+  <CXRreadingSession>
+    <servicingRadiologistID>anonymous</servicingRadiologistID>
+    <unblindedRead>
+      <noduleID>Nodule 001</noduleID>
+      <characteristics>
+        <confidence>3</confidence>
+        <subtlety>5</subtlety>
+        <obscuration>2</obscuration>
+        <reason>1</reason>
+      </characteristics>
+      <roi>
+        <imageSOP_UID>1.3.6.1.4.1.14519.5.2.1.6279.6001.377205087592595563122757128357</imageSOP_UID>
+        <edgeMap>
+          <xCoord>1760</xCoord>
+          <yCoord>1008</yCoord>
+        </edgeMap>
+      </roi>
+    </unblindedRead>
+  </CXRreadingSession>
+</IdriReadMessage>
